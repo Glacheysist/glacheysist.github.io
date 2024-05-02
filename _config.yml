@@ -13,9 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-zhihu_username: 1
+#zhihu_username: 1
 github_username: glacheysist
-twitter_username: 1
+#twitter_username: 1
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
