@@ -1,0 +1,12 @@
+---
+layout:     post
+title:      "第一篇文章"
+author:     "55555"
+header-style: text
+catalog:      true
+tags:
+    - 第一篇
+---
+
+这是我的开始
+我的第一篇博客
